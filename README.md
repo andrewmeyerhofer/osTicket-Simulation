@@ -2,21 +2,21 @@
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/64682542-313e-4d29-b846-fd0c2cb95e80" />
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Ticketing System Simulation</h1>
+In this project, I used the open-source ticketing system osTicket to simulate the process of ticket intake and resolution that would occur in an IT helpdesk. This project helped me gain a better understanding of how ticketing software is commonly used in a helpdesk setting. The the resources used and objectives of this project are listed below.<br />
 
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- osTicket (Open Source Ticketing System)
 
 <h2>Operating Systems Used </h2>
 
 - Windows 11</b> (24H2)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>Simulation Objectives</h2>
 
 - Intake
 - Assignment and Communication
@@ -24,16 +24,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-
-<p>
-<img width="1205" height="426" alt="image" src="https://github.com/user-attachments/assets/0be23937-0d2b-40b2-8af3-99e5b0113bc8" />
-
-
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 <p>
 <img width="1067" height="812" alt="image" src="https://github.com/user-attachments/assets/61c7c161-5025-4486-bb49-e6c34929add1" />
