@@ -18,12 +18,13 @@ In this project, I used the open-source ticketing system osTicket to simulate th
 
 <h2>Simulation Objectives</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Understanding ticket intake
+- Understanding how to properly assign incoming tickets
+- Understanding how to communicate with the end-user
+- Understanding the process of working the issue
+- Understanding ticket resolution
 
-<h2>Lifecycle Stages</h2>
+<h2>Simulation:</h2>
 
 <p>
 <img width="1067" height="812" alt="image" src="https://github.com/user-attachments/assets/61c7c161-5025-4486-bb49-e6c34929add1" />
