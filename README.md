@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticketing System Simulation</h1>
-In this project, I used the open-source ticketing system osTicket to simulate the process of ticket intake and resolution that would occur in an IT helpdesk. This project helped me gain a better understanding of how ticketing software is commonly used in a helpdesk setting. The the resources used and objectives of this project are listed below.<br />
+In this project, I used the open-source ticketing system osTicket to simulate the process of ticket intake and resolution that would occur in an IT helpdesk. This project helped me gain a better understanding of how ticketing software is commonly used in a helpdesk setting. The resources used and objectives of this project are listed below.<br />
 
 
 <h2>Environments and Technologies Used</h2>
