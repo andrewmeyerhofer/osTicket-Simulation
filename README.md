@@ -31,7 +31,7 @@ In this project, I used the open-source ticketing system osTicket to simulate th
 
 </p>
 <p>
-The problem should be reported as "Business Critical Outage," but the end user (karen) does not know that. 
+To start, I opened the osTicket support center page (for my helpdesk) from the perspective of an end-user. I clicked the Open a New Ticket button and pretended to be a user named Karen who claimed that the entire Online Banking portal was down. As Karen, I labeled the Help Topic as "Report a Problem," though it should have been labeled as "Business Critical Outage" (this is to simulate an end-user choosing the wrong Help Topic for their issue).
 </p>
 <br />
 
@@ -40,7 +40,7 @@ The problem should be reported as "Business Critical Outage," but the end user (
 
 </p>
 <p>
-Logged in as John, view only so I can't edit.
+Once the ticket went through, I logged into osTicket as the Agent John. Because of the permissions I assigned in the osTicket-Setup project, John only has access to view incoming tickets. Upon logging in as John, I was imediately brought to the ticket page where Karen's ticket was the only one present. Here I could see all of the important information regarding the ticket, including the status, priority, department, SLA, due date, user information, help topic selected, and the communication thread. Since the end-user put in the ticket information themself, some things needed to be added or changed. I logged out of John's account so I could log back in as an account with edit permissions. 
 </p>
 <br />
 
@@ -49,7 +49,7 @@ Logged in as John, view only so I can't edit.
 
 </p>
 <p>
-Logged back in as Andrew, set SLA level to A.
+I logged back into osTicket using my own account, and was greeted with the same ticket page that John had seen. I now had access to edit the ticket, so I started by determining the SLA plan. I set the SLA plan to SevA, as this issue appears to have a wide impact on business operations. 
 </p>
 <br />
 
@@ -58,7 +58,7 @@ Logged back in as Andrew, set SLA level to A.
 
 </p>
 <p>
-Set the help topic to "Business Critical Outage" as that fits the siuation more appropriately. 
+Next, I decided to change the help topic, originally put in as "Report a Problem," to "Business Critical Outage." Customers being unable to use the Online Banking portal is a significant issue, so labeling it Set the help topic to "Business Critical Outage" as that fits the siuation more appropriately. 
 </p>
 <br />
 
