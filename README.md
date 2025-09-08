@@ -58,7 +58,7 @@ I logged back into osTicket using my own account, and was greeted with the same 
 
 </p>
 <p>
-Next, I decided to change the help topic, originally put in as "Report a Problem," to "Business Critical Outage." Customers being unable to use the Online Banking portal is a significant issue, so labeling it Set the help topic to "Business Critical Outage" as that fits the siuation more appropriately. 
+Next, I decided to change the help topic, originally put in as "Report a Problem," to "Business Critical Outage." Customers being unable to use the Online Banking portal is a significant issue, so labeling the ticket as a critical outage is important.
 </p>
 <br />
 
@@ -67,7 +67,7 @@ Next, I decided to change the help topic, originally put in as "Report a Problem
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I also decided to assign the ticket to the Online Banking team, seeing as the issue is related to the Online Banking portal. After making these changes to the ticket, I made sure everything was saved then logged out of my personal account. 
 </p>
 <br />
 
@@ -76,7 +76,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Logged in as Jane...
+I then logged in as Agent Jane (who was part of the Online Banking team) and was able to see the ticket with the changes I had just made. Since the ticket was assigned to Online Banking, any Agent who is not part of that team (such as John) will not be able to see the ticket. I then went a step further and had Jane assign the ticket to herself, meaning she will be the one to work it to completion. 
 </p>
 <br />
 
@@ -85,7 +85,7 @@ Logged in as Jane...
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As Jane, I clicked the reply button in the ticket thread to send an initial response to Karen. After I pressed the post reply button, this would be the point where Jane and the Online Banking team actually work the ticket and try to find a resolution. In this case, the resolution would likely involve rolling back the recent Banking portal update and contacting the vendor. Since this is a SevA ticket, it is also important to send hourly updates to the end-user and anyone involved, assuming it takes more than an hour to fix. 
 </p>
 <br />
 
@@ -94,7 +94,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After a resolution was found (assuming it took under and hour), I sent another message to Karen explaining the cause of the issue and how we were able to fix it. 
 </p>
 <br />
 
@@ -103,7 +103,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After posting the reply, I went to the status button and changed it from open to resolved. With that, the ticket became offically resolved and the tickets page became empty. 
 </p>
 <br />
 
