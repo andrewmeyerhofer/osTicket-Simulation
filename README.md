@@ -157,7 +157,7 @@ For this last ticket, Karen will represent the CFO's assistant. I went back to t
 
 </p>
 <p>
-I then logged into osTicket and assigned the new ticket to myself. At this point, it would be smart to call the CFO (or their assistant) to get more details on what happend. It may also be smart to send someone up to take a look at the laptop. I also set the ticket to SevB, as this issue only effects one person, but that person is the CFO (depending on the what the CFO needs their laptop for, it could be SevA or SevC instead). 
+I then logged into osTicket and assigned the new ticket to myself. At this point, it would be smart to call the CFO (or their assistant) to get more details on what happend. It may also be smart to send someone up to take a look at the laptop. I also set the ticket to SevB, as this issue only affects one person, but that person is the CFO (depending on the what the CFO needs their laptop for, it could be SevA or SevC instead). 
 </p>
 <br />
 
