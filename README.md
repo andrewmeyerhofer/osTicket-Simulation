@@ -112,7 +112,7 @@ After posting the reply, I went to the status button and changed it from open to
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, I went back to the Support Center Home page and created another ticket as Karen. For this ticket, the issue was that some people in the Accounting department could not use their Adobe software. I also wrote an issue summary as Karen, with her believing that Adobe needs an upgrade to be fixed.
 </p>
 <br />
 
@@ -121,7 +121,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Logged back in as Andrew. In this situation, it would be smart to contact Karen and ask for more specific details on the situation. 
+I then logged back into osTicket as myself and opened up the new ticket on the Tickets page. In this situation, it would be smart to contact Karen directly and ask for more specific details on the situation. Using the email or phone number provided (phone would be ideal), I would contact Karen and ask her questions like: how many people are experiencing the issue, what happens when you try to use the sofware, is there an error code, when did the problem start, when was the most recent update, has anyone tried restarting their computer or software, etc. 
 </p>
 <br />
 
@@ -130,7 +130,7 @@ Logged back in as Andrew. In this situation, it would be smart to contact Karen 
 
 </p>
 <p>
-Issue determined to only effect two people after talking to Karen. Set to SevC.
+Upon talking to Karen, I learned that only two people were experiencing issues with the Adobe software. I also learned that neither person had tried a computer or software restart yet. I set the ticket to SevC because the issue was minor in terms of it's scope. I also sent a message to Karen informing her that we will be testing a restart on the Adobe software and the affected computers. 
 </p>
 <br />
 
@@ -139,7 +139,7 @@ Issue determined to only effect two people after talking to Karen. Set to SevC.
 
 </p>
 <p>
-Set status to resolved as well.
+Karen called after the restart and stated that the Adobe software was back up and working fine. I posted a closing comment and set the ticket status to resolved.
 </p>
 <br />
 
@@ -148,7 +148,7 @@ Set status to resolved as well.
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For this last ticket, Karen will represent the CFO's assistant. I went back to the new ticket page as Karen and created a ticket stating that the CFO's laptop will not power on. 
 </p>
 <br />
 
@@ -157,7 +157,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Set to SevB and assigned to self. It would be smart to actually call the CFO to understand what happend.
+I then logged into osTicket and assigned the new ticket to myself. At this point, it would be smart to call the CFO (or their assistant) to get more details on what happend. It may also be smart to send someone up to take a look at the laptop. I also set the ticket to SevB, as this issue only effects one person, but that person is the CFO (depending on the what the CFO needs their laptop for, it could be SevA or SevC instead). 
 </p>
 <br />
 
@@ -166,6 +166,6 @@ Set to SevB and assigned to self. It would be smart to actually call the CFO to 
 
 </p>
 <p>
-Ticket is resolved.
+After talking to the CFO and sending someone to examine the laptop, we determined that the laptop was completely out of battery due to a broken charger. Our helpdesk was able to provision a new charger which fixed the issue. With that, I posted a closing comment and resolved the ticket. This concludes the Ticketing System Simulation project. 
 </p>
 <br />
